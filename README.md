@@ -28,5 +28,3 @@ OAuth: Implement third-party authentication (e.g., Google, Facebook, GitHub) for
 1)Debouncing Search Input: When implementing search functionality, debounce the search input to avoid making an API request every time a character is typed. Instead, send a request after a slight delay, reducing the number of requests.
 
 2)State Management Optimization: Use state management solutions like Redux or React Context efficiently to avoid unnecessary re-renders. Use selectors and memoization techniques to only update the components that need to re-render.
-
-> > > > > > > d9edfe5 (finished product)
